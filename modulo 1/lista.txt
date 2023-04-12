@@ -1,3 +1,5 @@
 galletias
 pan
 jugo
+leche
+huevos
